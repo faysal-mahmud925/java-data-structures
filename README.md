@@ -75,6 +75,3 @@ Faysal Mahmud
 This project is licensed under the MIT License — feel free to use and modify.
 
 ---
-
-✅ Just copy **everything above** (including the starting and ending triple backticks)  
-and paste it directly into your `README.md` file in the root of your project.
